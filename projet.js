@@ -7,21 +7,21 @@ let zoom = 100;
 //  ar3 = [-voxelSize*6, 1, -voxelSize*9],
 //  ar4 = [voxelSize, 1, -voxelSize*9],
 //  ar5 = [voxelSize*10, 1, -voxelSize*7],
-//  ar6 = [x,y],
-//  ar7 = [x,y],
-//  ar8 = [x,y],
+//  ar6 = [voxelSize*6, 1, -voxelSize],
+//  ar7 = [voxelSize, 1, voxelSize*6],
+//  ar8 = [-voxelSize*12, 1, voxelSize*6],
 //  ar9 = [-voxelSize*26, 1, -voxelSize*6],
 //  ar10 = [-voxelSize*14, 1, -voxelSize*10],
-//  ar11 = [x,y],
-//  ar12 = [x,y],
-//  ar13 = [x,y],
-//  ar14 = [x,y],
-//  ar15 = [x,y],
-//  ar16 = [x,y],
-//  ar17 = [x,y],
-//  ar18 = [x,y],
+//  ar11 = [-voxelSize*2, 1, -voxelSize*16],
+//  ar12 = [voxelSize*13, 1, -voxelSize*22],
+//  ar13 = [voxelSize*22, 1, -voxelSize*10],
+//  ar14 = [voxelSize*21, 1, voxelSize*2],
+//  ar15 = [voxelSize*12, 1, voxelSize*12],
+//  ar16 = [-voxelSize, 1, voxelSize*19],
+//  ar17 = [-voxelSize*21, 1, voxelSize*9],
+//  ar18 = [-voxelSize*26, 1, -voxelSize*6],
 //  ar19 = [-voxelSize*22, 1, -voxelSize*18],
-//  ar20 = [x,y],
+//  ar20 = [-voxelSize*5, 1, -voxelSize*24],
 //];
   
 let img;
@@ -63,7 +63,7 @@ function draw() {
       // Draw a vertical stack of voxels
       //for (let h = 0; h <= maxHeight; h++) {
         // Note: by default "Up" is negative in the y axis
-        translate(voxelSize*10, 1, -voxelSize*7);
+        translate(-voxelSize*12, 1, voxelSize*6);
         box(voxelSize);
       //}
       pop();
