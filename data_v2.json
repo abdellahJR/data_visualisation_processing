@@ -1,0 +1,3236 @@
+{
+    "data": [
+        {
+            "nom_tournage": "ENGRENAGES SAISON 8",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75020",
+            "start_date": "2019-10-11",
+            "end_date": "2019-10-11"
+        },
+        {
+            "nom_tournage": "Alice NEVERS",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2018-11-16",
+            "end_date": "2018-11-16"
+        },
+        {
+            "nom_tournage": "HORS NORMES",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2018-11-13",
+            "end_date": "2018-11-14"
+        },
+        {
+            "nom_tournage": "Emily in Paris",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2019-10-18",
+            "end_date": "2019-10-18"
+        },
+        {
+            "nom_tournage": "La Daronne",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2018-11-16",
+            "end_date": "2018-11-16"
+        },
+        {
+            "nom_tournage": "L'angle Mort",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2018-11-21",
+            "end_date": "2018-11-22"
+        },
+        {
+            "nom_tournage": "L'INSPIRATRICE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2018-11-23",
+            "end_date": "2018-11-24"
+        },
+        {
+            "nom_tournage": "SKAM SAISON 5 ET 6 SEMAINE 2 SUR 9",
+            "annee_tournage": "2019",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75014",
+            "start_date": "2019-10-16",
+            "end_date": "2019-10-16"
+        },
+        {
+            "nom_tournage": "SKAM SAISON 5 ET 6 SEMAINE 2 SUR 9",
+            "annee_tournage": "2019",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75014",
+            "start_date": "2019-10-17",
+            "end_date": "2019-10-17"
+        },
+        {
+            "nom_tournage": "Garçon chiffon",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2019-10-18",
+            "end_date": "2019-10-18"
+        },
+        {
+            "nom_tournage": "TANGUY 2",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2018-07-11",
+            "end_date": "2018-07-11"
+        },
+        {
+            "nom_tournage": "TANGUY 2",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2018-07-23",
+            "end_date": "2018-07-23"
+        },
+        {
+            "nom_tournage": "TANGUY 2",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2018-07-20",
+            "end_date": "2018-07-20"
+        },
+        {
+            "nom_tournage": "PLACE DES VICTOIRES",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2018-12-04",
+            "end_date": "2018-12-04"
+        },
+        {
+            "nom_tournage": "FORTE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2018-12-03",
+            "end_date": "2018-12-04"
+        },
+        {
+            "nom_tournage": "EDEN",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2018-07-30",
+            "end_date": "2018-07-30"
+        },
+        {
+            "nom_tournage": "BIGGIE LA FAIM DE VIVRE",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75007",
+            "start_date": "2018-12-14",
+            "end_date": "2018-12-14"
+        },
+        {
+            "nom_tournage": "Le Bazar de la Charité",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2019-03-08",
+            "end_date": "2019-03-08"
+        },
+        {
+            "nom_tournage": "Le Bazar de la Charité",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2019-03-04",
+            "end_date": "2019-03-05"
+        },
+        {
+            "nom_tournage": "Comment je suis devenu Super Héros",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2019-05-14",
+            "end_date": "2019-05-14"
+        },
+        {
+            "nom_tournage": "Les Années 10 - L'infiltré",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2019-11-04",
+            "end_date": "2019-11-04"
+        },
+        {
+            "nom_tournage": "PAR UN DEMI CLAIR MATIN",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2019-11-12",
+            "end_date": "2019-11-12"
+        },
+        {
+            "nom_tournage": "COUP DE FOUDRE A L ILE MAURICE (suite)",
+            "annee_tournage": "2019",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75116",
+            "start_date": "2019-11-05",
+            "end_date": "2019-11-05"
+        },
+        {
+            "nom_tournage": "Les Années 10 - L'infiltré",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75116",
+            "start_date": "2019-11-06",
+            "end_date": "2019-11-06"
+        },
+        {
+            "nom_tournage": "La République",
+            "annee_tournage": "2018",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75010",
+            "start_date": "2018-07-25",
+            "end_date": "2018-07-27"
+        },
+        {
+            "nom_tournage": "ENGRENAGES SAISON 7",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2018-08-01",
+            "end_date": "2018-08-03"
+        },
+        {
+            "nom_tournage": "Osmosis",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2018-07-25",
+            "end_date": "2018-07-26"
+        },
+        {
+            "nom_tournage": "NICKY LARSON",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2018-08-01",
+            "end_date": "2018-08-01"
+        },
+        {
+            "nom_tournage": "UN VOYAGE EN HIVER",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2019-03-11",
+            "end_date": "2019-03-11"
+        },
+        {
+            "nom_tournage": "L'Attaché",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2019-03-14",
+            "end_date": "2019-03-14"
+        },
+        {
+            "nom_tournage": "L'Attaché",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2019-03-14",
+            "end_date": "2019-03-14"
+        },
+        {
+            "nom_tournage": "ENGRENAGES SAISON 8",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2019-06-03",
+            "end_date": "2019-06-03"
+        },
+        {
+            "nom_tournage": "Emily in Paris",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2019-11-07",
+            "end_date": "2019-11-07"
+        },
+        {
+            "nom_tournage": "MODERN FAMILY - Saison 11 - FINALE",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2019-11-12",
+            "end_date": "2019-11-12"
+        },
+        {
+            "nom_tournage": "Les Années 10 - L'infiltré",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75116",
+            "start_date": "2019-11-07",
+            "end_date": "2019-11-09"
+        },
+        {
+            "nom_tournage": "Le Bazar de la Charité",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75008",
+            "start_date": "2019-03-14",
+            "end_date": "2019-03-16"
+        },
+        {
+            "nom_tournage": "The Eddy",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2019-05-28",
+            "end_date": "2019-05-28"
+        },
+        {
+            "nom_tournage": "The Eddy",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75012",
+            "start_date": "2019-05-28",
+            "end_date": "2019-05-28"
+        },
+        {
+            "nom_tournage": "VALIDÉ",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75020",
+            "start_date": "2019-06-08",
+            "end_date": "2019-06-08"
+        },
+        {
+            "nom_tournage": "LA BEAUTE DU GESTE",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2019-11-19",
+            "end_date": "2019-11-19"
+        },
+        {
+            "nom_tournage": "MIAMI VINE",
+            "annee_tournage": "2017",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75008",
+            "start_date": "2017-09-11",
+            "end_date": "2017-09-11"
+        },
+        {
+            "nom_tournage": "From Moscow to Royan 3.0",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75003",
+            "start_date": "2017-08-24",
+            "end_date": "2017-08-24"
+        },
+        {
+            "nom_tournage": "Les dents, pipi, au lit.",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-03-16",
+            "end_date": "2017-03-16"
+        },
+        {
+            "nom_tournage": "DEMAIN ET TOUS LES AUTRES JOURS (2)",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75020",
+            "start_date": "2016-10-15",
+            "end_date": "2016-10-15"
+        },
+        {
+            "nom_tournage": "NUMERO UNE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2016-10-10",
+            "end_date": "2016-10-13"
+        },
+        {
+            "nom_tournage": "UN CAFE AVEC...",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2016-05-02",
+            "end_date": "2016-05-02"
+        },
+        {
+            "nom_tournage": "Si Paris n'était pas joyeux",
+            "annee_tournage": "2017",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75116",
+            "start_date": "2017-03-23",
+            "end_date": "2017-03-23"
+        },
+        {
+            "nom_tournage": "Un Cadeau du Ciel",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75116",
+            "start_date": "2017-03-22",
+            "end_date": "2017-03-23"
+        },
+        {
+            "nom_tournage": "Le Doudou",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2017-03-28",
+            "end_date": "2017-03-28"
+        },
+        {
+            "nom_tournage": "UN CADEAU DU CIEL",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75003",
+            "start_date": "2017-03-16",
+            "end_date": "2017-03-17"
+        },
+        {
+            "nom_tournage": "addict",
+            "annee_tournage": "2017",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75012",
+            "start_date": "2017-02-14",
+            "end_date": "2017-02-15"
+        },
+        {
+            "nom_tournage": "Maggie e Bianca Fashion Friends Episode DE PARIS AVEC AMOUR",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2017-03-14",
+            "end_date": "2017-03-14"
+        },
+        {
+            "nom_tournage": "CHRONIQUES PARISIENNES 16",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2017-04-18",
+            "end_date": "2017-04-18"
+        },
+        {
+            "nom_tournage": "ALICE NEVERS episodes 92, 93 saison 14",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2017-04-15",
+            "end_date": "2017-04-15"
+        },
+        {
+            "nom_tournage": "GEMINI",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2017-04-09",
+            "end_date": "2017-04-09"
+        },
+        {
+            "nom_tournage": "GEMINI",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2017-04-29",
+            "end_date": "2017-04-29"
+        },
+        {
+            "nom_tournage": "GEMINI",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2017-04-28",
+            "end_date": "2017-04-28"
+        },
+        {
+            "nom_tournage": "JE NE SUIS PAS UN HOMME FACILE",
+            "annee_tournage": "2017",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75005",
+            "start_date": "2017-03-20",
+            "end_date": "2017-03-20"
+        },
+        {
+            "nom_tournage": "Si Paris n'était pas joyeux",
+            "annee_tournage": "2017",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75116",
+            "start_date": "2017-03-23",
+            "end_date": "2017-03-23"
+        },
+        {
+            "nom_tournage": "LA FETE DES MERES",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2017-09-20",
+            "end_date": "2017-09-20"
+        },
+        {
+            "nom_tournage": "LA FETE DES MERES",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2017-09-25",
+            "end_date": "2017-09-25"
+        },
+        {
+            "nom_tournage": "BER",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2017-09-23",
+            "end_date": "2017-09-23"
+        },
+        {
+            "nom_tournage": "Ton ancien toi",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2017-08-28",
+            "end_date": "2017-08-29"
+        },
+        {
+            "nom_tournage": "Ton ancien toi",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75015",
+            "start_date": "2017-08-26",
+            "end_date": "2017-08-26"
+        },
+        {
+            "nom_tournage": "Amanda",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2017-09-01",
+            "end_date": "2017-09-01"
+        },
+        {
+            "nom_tournage": "Jewell Stone",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75020",
+            "start_date": "2017-08-30",
+            "end_date": "2017-08-30"
+        },
+        {
+            "nom_tournage": "Une famille formidable - Saison 14 - du 4 au 13 septembre 2017",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75017",
+            "start_date": "2017-09-04",
+            "end_date": "2017-09-04"
+        },
+        {
+            "nom_tournage": "THE 15:17 to Paris",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-08-28",
+            "end_date": "2017-09-02"
+        },
+        {
+            "nom_tournage": "FIND ME IN PARIS 2",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75008",
+            "start_date": "2017-09-11",
+            "end_date": "2017-09-12"
+        },
+        {
+            "nom_tournage": "Vingt-cinq",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2017-10-05",
+            "end_date": "2017-10-06"
+        },
+        {
+            "nom_tournage": "Vingt-cinq",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75020",
+            "start_date": "2017-10-02",
+            "end_date": "2017-10-03"
+        },
+        {
+            "nom_tournage": "Joséphine Ange Gardien Tous pour un",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2017-10-16",
+            "end_date": "2017-10-16"
+        },
+        {
+            "nom_tournage": "DEUX FILS (1ère semaine)",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2017-10-16",
+            "end_date": "2017-10-16"
+        },
+        {
+            "nom_tournage": "Premieres Vacances",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2017-10-12",
+            "end_date": "2017-10-13"
+        },
+        {
+            "nom_tournage": "Baron noir",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2017-10-14",
+            "end_date": "2017-10-14"
+        },
+        {
+            "nom_tournage": "From Moscow to Royan 3.0",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2017-08-23",
+            "end_date": "2017-08-23"
+        },
+        {
+            "nom_tournage": "The 15:17 to Paris",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-08-28",
+            "end_date": "2017-08-28"
+        },
+        {
+            "nom_tournage": "The 15:17 to Paris",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-09-01",
+            "end_date": "2017-09-01"
+        },
+        {
+            "nom_tournage": "Une famille Formidable - saison 14",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2017-08-30",
+            "end_date": "2017-08-30"
+        },
+        {
+            "nom_tournage": "LA FETE DES MERES",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-10-06",
+            "end_date": "2017-10-06"
+        },
+        {
+            "nom_tournage": "CLEM 40 41",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75010",
+            "start_date": "2017-10-04",
+            "end_date": "2017-10-05"
+        },
+        {
+            "nom_tournage": "VOLTAIRE",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2017-10-13",
+            "end_date": "2017-10-13"
+        },
+        {
+            "nom_tournage": "SUN",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2017-11-10",
+            "end_date": "2017-11-10"
+        },
+        {
+            "nom_tournage": "neuilly sa mère, sa mère",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2017-10-30",
+            "end_date": "2017-11-03"
+        },
+        {
+            "nom_tournage": "CLEM SAISON 8 ep 44 et 45",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75010",
+            "start_date": "2017-11-07",
+            "end_date": "2017-11-08"
+        },
+        {
+            "nom_tournage": "LRDM - Patriot season 2",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2017-11-10",
+            "end_date": "2017-11-11"
+        },
+        {
+            "nom_tournage": "Le Jeu",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2017-11-29",
+            "end_date": "2017-11-30"
+        },
+        {
+            "nom_tournage": "Arthur dans la foret",
+            "annee_tournage": "2017",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75003",
+            "start_date": "2017-12-02",
+            "end_date": "2017-12-02"
+        },
+        {
+            "nom_tournage": "TERRITOIRES",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2017-11-28",
+            "end_date": "2017-11-28"
+        },
+        {
+            "nom_tournage": "SUN",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-10-20",
+            "end_date": "2017-10-20"
+        },
+        {
+            "nom_tournage": "SUN",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2017-10-24",
+            "end_date": "2017-10-24"
+        },
+        {
+            "nom_tournage": "Vingt-cinq",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2017-10-24",
+            "end_date": "2017-10-25"
+        },
+        {
+            "nom_tournage": "Un homme pressé",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2017-05-23",
+            "end_date": "2017-05-24"
+        },
+        {
+            "nom_tournage": "LOVE ADDICT",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2017-05-29",
+            "end_date": "2017-05-30"
+        },
+        {
+            "nom_tournage": "L'AMOUR EST UNE FÊTE",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2017-06-12",
+            "end_date": "2017-06-13"
+        },
+        {
+            "nom_tournage": "THANKSGIVING",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2017-11-21",
+            "end_date": "2017-11-21"
+        },
+        {
+            "nom_tournage": "LA VIE SAUVE",
+            "annee_tournage": "2017",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75019",
+            "start_date": "2017-12-22",
+            "end_date": "2017-12-22"
+        },
+        {
+            "nom_tournage": "L'Enkas",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75017",
+            "start_date": "2017-12-20",
+            "end_date": "2017-12-20"
+        },
+        {
+            "nom_tournage": "La Ch'Tite Famille",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2017-07-18",
+            "end_date": "2017-07-18"
+        },
+        {
+            "nom_tournage": "BARBER TRUCK",
+            "annee_tournage": "2017",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75003",
+            "start_date": "2017-06-18",
+            "end_date": "2017-06-18"
+        },
+        {
+            "nom_tournage": "Joueurs",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75002",
+            "start_date": "2017-11-13",
+            "end_date": "2017-11-14"
+        },
+        {
+            "nom_tournage": "MATHIEU ET THOMAS CONTRE LE MONDE ENTIER",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75008",
+            "start_date": "2017-11-14",
+            "end_date": "2017-11-14"
+        },
+        {
+            "nom_tournage": "ANNA M.",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2017-12-15",
+            "end_date": "2017-12-15"
+        },
+        {
+            "nom_tournage": "LRDM - Patriot season 2",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75010",
+            "start_date": "2017-12-20",
+            "end_date": "2017-12-20"
+        },
+        {
+            "nom_tournage": "Clem",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75014",
+            "start_date": "2017-06-20",
+            "end_date": "2017-06-20"
+        },
+        {
+            "nom_tournage": "GARDE ALTERNEE",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2017-05-26",
+            "end_date": "2017-05-26"
+        },
+        {
+            "nom_tournage": "New Horizon (additif 2)",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2017-11-27",
+            "end_date": "2017-11-28"
+        },
+        {
+            "nom_tournage": "POTOMAC mulot floquet Mare et champ de mars",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75020",
+            "start_date": "2017-06-28",
+            "end_date": "2017-06-28"
+        },
+        {
+            "nom_tournage": "The White Crow",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2017-08-18",
+            "end_date": "2017-08-18"
+        },
+        {
+            "nom_tournage": "SPEAKERINE",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75002",
+            "start_date": "2017-08-28",
+            "end_date": "2017-08-29"
+        },
+        {
+            "nom_tournage": "BARBER TRUCK",
+            "annee_tournage": "2017",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75009",
+            "start_date": "2017-06-11",
+            "end_date": "2017-06-11"
+        },
+        {
+            "nom_tournage": "À jamais fidèle",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2017-08-03",
+            "end_date": "2017-08-04"
+        },
+        {
+            "nom_tournage": "Cold war",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2017-07-19",
+            "end_date": "2017-07-20"
+        },
+        {
+            "nom_tournage": "Cold war",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2017-07-20",
+            "end_date": "2017-07-21"
+        },
+        {
+            "nom_tournage": "ALICE NEVERS",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2017-02-04",
+            "end_date": "2017-02-04"
+        },
+        {
+            "nom_tournage": "GEMINI",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2017-05-23",
+            "end_date": "2017-05-23"
+        },
+        {
+            "nom_tournage": "Eiffel i'm in love 2",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75116",
+            "start_date": "2017-06-06",
+            "end_date": "2017-06-06"
+        },
+        {
+            "nom_tournage": "D'après une histoire vraie",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75003",
+            "start_date": "2017-01-25",
+            "end_date": "2017-01-25"
+        },
+        {
+            "nom_tournage": "QUADRAS",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2017-01-30",
+            "end_date": "2017-01-30"
+        },
+        {
+            "nom_tournage": "Les tuche 3",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2017-08-08",
+            "end_date": "2017-08-08"
+        },
+        {
+            "nom_tournage": "voyez comme on danse",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2017-08-30",
+            "end_date": "2017-08-30"
+        },
+        {
+            "nom_tournage": "L'échappée 2",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2017-07-10",
+            "end_date": "2017-07-11"
+        },
+        {
+            "nom_tournage": "BUDAPEST",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75002",
+            "start_date": "2017-07-17",
+            "end_date": "2017-07-18"
+        },
+        {
+            "nom_tournage": "Les Michetonneuses",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75006",
+            "start_date": "2018-01-23",
+            "end_date": "2018-01-23"
+        },
+        {
+            "nom_tournage": "Les Michetonneuses",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75003",
+            "start_date": "2018-01-22",
+            "end_date": "2018-01-22"
+        },
+        {
+            "nom_tournage": "Les Michetonneuses",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75006",
+            "start_date": "2018-01-23",
+            "end_date": "2018-01-23"
+        },
+        {
+            "nom_tournage": "NOX",
+            "annee_tournage": "2017",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2017-07-19",
+            "end_date": "2017-07-19"
+        },
+        {
+            "nom_tournage": "L'Enkas",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2018-01-16",
+            "end_date": "2018-01-17"
+        },
+        {
+            "nom_tournage": "Les Traducteurs",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2018-03-23",
+            "end_date": "2018-03-23"
+        },
+        {
+            "nom_tournage": "L'Envers du Decors",
+            "annee_tournage": "2017",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2017-09-08",
+            "end_date": "2017-09-09"
+        },
+        {
+            "nom_tournage": "ZONE FRANCHE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2018-02-26",
+            "end_date": "2018-02-26"
+        },
+        {
+            "nom_tournage": "le Fataliste",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2018-02-21",
+            "end_date": "2018-02-22"
+        },
+        {
+            "nom_tournage": "Bliss",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75003",
+            "start_date": "2018-03-03",
+            "end_date": "2018-03-03"
+        },
+        {
+            "nom_tournage": "Bliss",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2018-03-03",
+            "end_date": "2018-03-03"
+        },
+        {
+            "nom_tournage": "ENGRENAGES S7",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2018-02-28",
+            "end_date": "2018-02-28"
+        },
+        {
+            "nom_tournage": "Andy",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75020",
+            "start_date": "2018-03-08",
+            "end_date": "2018-03-08"
+        },
+        {
+            "nom_tournage": "Celle que vous croyez",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2018-04-05",
+            "end_date": "2018-04-06"
+        },
+        {
+            "nom_tournage": "ENGRENAGES S7",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75020",
+            "start_date": "2018-02-19",
+            "end_date": "2018-02-19"
+        },
+        {
+            "nom_tournage": "DIX POUR CENT SAISON 3",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2018-03-08",
+            "end_date": "2018-03-08"
+        },
+        {
+            "nom_tournage": "DIX POUR CENT SAISON 3",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75006",
+            "start_date": "2018-03-05",
+            "end_date": "2018-03-05"
+        },
+        {
+            "nom_tournage": "LE BUREAU DES LÉGENDES S4",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75017",
+            "start_date": "2018-04-03",
+            "end_date": "2018-04-03"
+        },
+        {
+            "nom_tournage": "Can't Buy me love",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2018-04-04",
+            "end_date": "2018-04-05"
+        },
+        {
+            "nom_tournage": "LE MYSTERE HENRI PICK",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2018-03-02",
+            "end_date": "2018-03-03"
+        },
+        {
+            "nom_tournage": "LE BUREAU DES LÉGENDES S4",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2018-03-26",
+            "end_date": "2018-03-27"
+        },
+        {
+            "nom_tournage": "L'art du crime saison 2",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2018-05-22",
+            "end_date": "2018-05-23"
+        },
+        {
+            "nom_tournage": "DIX POUR CENT SAISON 3",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75006",
+            "start_date": "2018-03-05",
+            "end_date": "2018-03-05"
+        },
+        {
+            "nom_tournage": "EGLANDINE",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2018-04-23",
+            "end_date": "2018-04-23"
+        },
+        {
+            "nom_tournage": "EGLANDINE",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2018-04-23",
+            "end_date": "2018-04-23"
+        },
+        {
+            "nom_tournage": "MON INCONNUE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2018-04-17",
+            "end_date": "2018-04-20"
+        },
+        {
+            "nom_tournage": "Vernon Subutex",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2018-06-13",
+            "end_date": "2018-06-15"
+        },
+        {
+            "nom_tournage": "CHANSON DOUCE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2018-06-25",
+            "end_date": "2018-06-26"
+        },
+        {
+            "nom_tournage": "LES BONNES INTENTIONS",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2018-03-20",
+            "end_date": "2018-03-20"
+        },
+        {
+            "nom_tournage": "Tu vivras ma fille",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75016",
+            "start_date": "2018-04-17",
+            "end_date": "2018-04-17"
+        },
+        {
+            "nom_tournage": "Tu vivras ma fille",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75016",
+            "start_date": "2018-04-24",
+            "end_date": "2018-04-25"
+        },
+        {
+            "nom_tournage": "Shadowhunters",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2018-05-14",
+            "end_date": "2018-05-14"
+        },
+        {
+            "nom_tournage": "Munch  saison 2",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2018-06-04",
+            "end_date": "2018-06-05"
+        },
+        {
+            "nom_tournage": "Vernon Subutex",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2018-05-22",
+            "end_date": "2018-05-23"
+        },
+        {
+            "nom_tournage": "dans la gueule du requin (Exfiltrés)",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2018-05-28",
+            "end_date": "2018-05-28"
+        },
+        {
+            "nom_tournage": "MERCI MAIS NON MERCI - Épisode 1",
+            "annee_tournage": "2018",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75013",
+            "start_date": "2018-06-02",
+            "end_date": "2018-06-02"
+        },
+        {
+            "nom_tournage": "QUAND TU DANSES",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2018-06-05",
+            "end_date": "2018-06-05"
+        },
+        {
+            "nom_tournage": "BOOMERANG",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2019-12-17",
+            "end_date": "2019-12-18"
+        },
+        {
+            "nom_tournage": "PROFILAGE EPISODES 101/102",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75012",
+            "start_date": "2019-12-18",
+            "end_date": "2019-12-19"
+        },
+        {
+            "nom_tournage": "QUAND ON CRIE AU LOUP",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2018-10-01",
+            "end_date": "2018-10-01"
+        },
+        {
+            "nom_tournage": "LA BELLE EPOQUE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75017",
+            "start_date": "2018-09-25",
+            "end_date": "2018-09-26"
+        },
+        {
+            "nom_tournage": "Les Mignonnes",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2018-08-22",
+            "end_date": "2018-08-27"
+        },
+        {
+            "nom_tournage": "Huge in France",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2018-08-22",
+            "end_date": "2018-08-22"
+        },
+        {
+            "nom_tournage": "Une famille formidable",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2018-08-24",
+            "end_date": "2018-08-24"
+        },
+        {
+            "nom_tournage": "Vernon Subutex",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75010",
+            "start_date": "2018-08-28",
+            "end_date": "2018-08-30"
+        },
+        {
+            "nom_tournage": "Alice in Paris - Saison 3",
+            "annee_tournage": "2018",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75007",
+            "start_date": "2018-09-03",
+            "end_date": "2018-09-03"
+        },
+        {
+            "nom_tournage": "Fleabag",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2019-02-06",
+            "end_date": "2019-02-06"
+        },
+        {
+            "nom_tournage": "PARENT D'ELEVE",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-06-24",
+            "end_date": "2019-07-03"
+        },
+        {
+            "nom_tournage": "CHACUN CHEZ SOI !",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2019-06-21",
+            "end_date": "2019-06-22"
+        },
+        {
+            "nom_tournage": "L'HORIZON",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2019-07-05",
+            "end_date": "2019-07-05"
+        },
+        {
+            "nom_tournage": "les amis des amis",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2018-10-16",
+            "end_date": "2018-10-16"
+        },
+        {
+            "nom_tournage": "SKAM SAISON 3 ET 4 SEMAINE 3 SUR 8",
+            "annee_tournage": "2018",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75011",
+            "start_date": "2018-10-16",
+            "end_date": "2018-10-16"
+        },
+        {
+            "nom_tournage": "MAKE UP ON THE WAY",
+            "annee_tournage": "2019",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75019",
+            "start_date": "2019-07-10",
+            "end_date": "2019-07-10"
+        },
+        {
+            "nom_tournage": "MAKE UP ON THE WAY",
+            "annee_tournage": "2019",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75015",
+            "start_date": "2019-07-09",
+            "end_date": "2019-07-09"
+        },
+        {
+            "nom_tournage": "The Eddy",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75014",
+            "start_date": "2019-07-16",
+            "end_date": "2019-07-17"
+        },
+        {
+            "nom_tournage": "ASTRID ET RAPHAËLLE",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75006",
+            "start_date": "2019-09-16",
+            "end_date": "2019-09-17"
+        },
+        {
+            "nom_tournage": "Osmosis",
+            "annee_tournage": "2018",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75020",
+            "start_date": "2018-10-01",
+            "end_date": "2018-10-01"
+        },
+        {
+            "nom_tournage": "UN FILS PARFAIT",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75004",
+            "start_date": "2018-10-03",
+            "end_date": "2018-10-03"
+        },
+        {
+            "nom_tournage": "BALTHAZAR",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2019-07-19",
+            "end_date": "2019-07-20"
+        },
+        {
+            "nom_tournage": "BALTHAZAR",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2019-07-20",
+            "end_date": "2019-07-20"
+        },
+        {
+            "nom_tournage": "Abonne-toi",
+            "annee_tournage": "2018",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75019",
+            "start_date": "2018-10-04",
+            "end_date": "2018-10-04"
+        },
+        {
+            "nom_tournage": "THE HUNTING",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2019-06-18",
+            "end_date": "2019-06-18"
+        },
+        {
+            "nom_tournage": "EIFFEL",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-08-29",
+            "end_date": "2019-08-30"
+        },
+        {
+            "nom_tournage": "ENGRENAGES SAISON 8",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75012",
+            "start_date": "2019-09-02",
+            "end_date": "2019-09-04"
+        },
+        {
+            "nom_tournage": "Emily in Paris",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2019-08-16",
+            "end_date": "2019-08-17"
+        },
+        {
+            "nom_tournage": "Emily in Paris",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75003",
+            "start_date": "2019-08-21",
+            "end_date": "2019-08-21"
+        },
+        {
+            "nom_tournage": "Gott du kannst ein Arsch sein",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2019-10-02",
+            "end_date": "2019-10-03"
+        },
+        {
+            "nom_tournage": "Fleabag",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2019-01-03",
+            "end_date": "2019-01-03"
+        },
+        {
+            "nom_tournage": "T'as Pécho?",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2019-08-05",
+            "end_date": "2019-08-05"
+        },
+        {
+            "nom_tournage": "ENGRENAGES SAISON 8",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2019-08-30",
+            "end_date": "2019-08-30"
+        },
+        {
+            "nom_tournage": "PARENT D'ELEVE",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-07-23",
+            "end_date": "2019-07-23"
+        },
+        {
+            "nom_tournage": "ALICE NEVERS E110-111",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2019-01-17",
+            "end_date": "2019-01-18"
+        },
+        {
+            "nom_tournage": "PLACE DES VICTOIRES",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2018-11-26",
+            "end_date": "2018-11-27"
+        },
+        {
+            "nom_tournage": "HUGUETTE",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75010",
+            "start_date": "2018-11-13",
+            "end_date": "2018-11-14"
+        },
+        {
+            "nom_tournage": "La Garçonne",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2019-09-04",
+            "end_date": "2019-09-05"
+        },
+        {
+            "nom_tournage": "Emily in Paris",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2019-08-27",
+            "end_date": "2019-08-28"
+        },
+        {
+            "nom_tournage": "ARTHUR RAMBO",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75020",
+            "start_date": "2019-10-03",
+            "end_date": "2019-10-03"
+        },
+        {
+            "nom_tournage": "LES CHOSES QU'ON DIT, LES CHOSES QU'ON FAIT",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75002",
+            "start_date": "2019-11-04",
+            "end_date": "2019-11-05"
+        },
+        {
+            "nom_tournage": "SERIE BARON NOIR SAISON 3",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2019-10-09",
+            "end_date": "2019-10-09"
+        },
+        {
+            "nom_tournage": "J'ACCUSE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2018-11-26",
+            "end_date": "2018-11-26"
+        },
+        {
+            "nom_tournage": "L'ASCENSION",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-02-25",
+            "end_date": "2016-02-25"
+        },
+        {
+            "nom_tournage": "EMBRASSE MOI",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2016-07-05",
+            "end_date": "2016-07-07"
+        },
+        {
+            "nom_tournage": "LEILA",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75002",
+            "start_date": "2016-11-21",
+            "end_date": "2016-11-21"
+        },
+        {
+            "nom_tournage": "THE AFFAIR",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2016-12-07",
+            "end_date": "2016-12-07"
+        },
+        {
+            "nom_tournage": "BLACKPILLS/RAISING HITLER",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75017",
+            "start_date": "2016-09-22",
+            "end_date": "2016-09-22"
+        },
+        {
+            "nom_tournage": "120 BATTEMENTS PAR MINUTE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2016-08-29",
+            "end_date": "2016-09-02"
+        },
+        {
+            "nom_tournage": "C'EST TOUT POUR MOI",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2016-03-11",
+            "end_date": "2016-03-11"
+        },
+        {
+            "nom_tournage": "BEFIKRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2016-04-27",
+            "end_date": "2016-04-27"
+        },
+        {
+            "nom_tournage": "SOUS LE MEME TOIT",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2016-06-27",
+            "end_date": "2016-06-27"
+        },
+        {
+            "nom_tournage": "MES TRÈS CHERS ENFANTS",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2020-11-13",
+            "end_date": "2020-11-13"
+        },
+        {
+            "nom_tournage": "L'AMOUR FLOU, LA SÉRIE",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2020-11-13",
+            "end_date": "2020-11-13"
+        },
+        {
+            "nom_tournage": "ORANGES SANGUINES",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2020-11-10",
+            "end_date": "2020-11-11"
+        },
+        {
+            "nom_tournage": "Retroscopie",
+            "annee_tournage": "2020",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75016",
+            "start_date": "2020-11-10",
+            "end_date": "2020-11-10"
+        },
+        {
+            "nom_tournage": "Validé Saison 2",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2020-11-18",
+            "end_date": "2020-11-18"
+        },
+        {
+            "nom_tournage": "Rosa",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2020-11-09",
+            "end_date": "2020-11-09"
+        },
+        {
+            "nom_tournage": "Additif DT_40626 ASTRID ET RAPHAËLLE SAISON 2",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2020-11-19",
+            "end_date": "2020-11-19"
+        },
+        {
+            "nom_tournage": "FRANCOEUR - CHASSEUR DE REVE",
+            "annee_tournage": "2020",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75005",
+            "start_date": "2020-11-14",
+            "end_date": "2020-11-15"
+        },
+        {
+            "nom_tournage": "LA VIE DE CHATEAU",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-08-02",
+            "end_date": "2016-08-02"
+        },
+        {
+            "nom_tournage": "JOUR J",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2016-08-08",
+            "end_date": "2016-08-08"
+        },
+        {
+            "nom_tournage": "LOLA PATER",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-04-12",
+            "end_date": "2016-04-12"
+        },
+        {
+            "nom_tournage": "LEILA",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75017",
+            "start_date": "2016-11-16",
+            "end_date": "2016-11-17"
+        },
+        {
+            "nom_tournage": "JE VAIS MIEUX",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75020",
+            "start_date": "2016-12-19",
+            "end_date": "2016-12-19"
+        },
+        {
+            "nom_tournage": "BEFIKRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2016-02-26",
+            "end_date": "2016-02-26"
+        },
+        {
+            "nom_tournage": "PLONGER",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2016-05-03",
+            "end_date": "2016-05-03"
+        },
+        {
+            "nom_tournage": "LA MELODIE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-06-07",
+            "end_date": "2016-06-08"
+        },
+        {
+            "nom_tournage": "DEMAIN ET TOUS LES AUTRES JOURS (2)",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-03-02",
+            "end_date": "2016-03-02"
+        },
+        {
+            "nom_tournage": "DJANGO MELODIES",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2016-04-28",
+            "end_date": "2016-04-28"
+        },
+        {
+            "nom_tournage": "LES FANTOMES D'ISMAEL",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-10-05",
+            "end_date": "2016-10-05"
+        },
+        {
+            "nom_tournage": "MA PIRE ANGOISSE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2016-04-04",
+            "end_date": "2016-04-04"
+        },
+        {
+            "nom_tournage": "Vous n'aurez pas ma haine",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2020-12-07",
+            "end_date": "2020-12-07"
+        },
+        {
+            "nom_tournage": "Vous n'aurez pas ma haine",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2020-12-08",
+            "end_date": "2020-12-08"
+        },
+        {
+            "nom_tournage": "GC5",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75003",
+            "start_date": "2016-03-01",
+            "end_date": "2016-03-01"
+        },
+        {
+            "nom_tournage": "MUNCH",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2016-10-28",
+            "end_date": "2016-10-28"
+        },
+        {
+            "nom_tournage": "JE VOULAIS JUSTE RENTRER CHEZ MOI",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75003",
+            "start_date": "2016-11-21",
+            "end_date": "2016-11-21"
+        },
+        {
+            "nom_tournage": "CARBONE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75017",
+            "start_date": "2016-11-15",
+            "end_date": "2016-11-18"
+        },
+        {
+            "nom_tournage": "OUI MADEMOISELLE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2016-03-13",
+            "end_date": "2016-03-13"
+        },
+        {
+            "nom_tournage": "120 BATTEMENTS PAR MINUTE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2016-07-02",
+            "end_date": "2016-07-02"
+        },
+        {
+            "nom_tournage": "PLAN B",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2020-12-03",
+            "end_date": "2020-12-03"
+        },
+        {
+            "nom_tournage": "PLAN B",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2020-12-03",
+            "end_date": "2020-12-03"
+        },
+        {
+            "nom_tournage": "PLAN B",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2020-12-03",
+            "end_date": "2020-12-03"
+        },
+        {
+            "nom_tournage": "PLAN B",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75116",
+            "start_date": "2020-12-03",
+            "end_date": "2020-12-04"
+        },
+        {
+            "nom_tournage": "FUGUEUSE - SEMAINE 10 SUR 12",
+            "annee_tournage": "2020",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75018",
+            "start_date": "2020-12-16",
+            "end_date": "2020-12-18"
+        },
+        {
+            "nom_tournage": "LA VIE DE CHATEAU",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-08-22",
+            "end_date": "2016-08-24"
+        },
+        {
+            "nom_tournage": "LEO MATTEI/N°13 ET 14",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2016-03-14",
+            "end_date": "2016-03-14"
+        },
+        {
+            "nom_tournage": "NOS ANNEES FOLLES",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75014",
+            "start_date": "2016-10-06",
+            "end_date": "2016-10-06"
+        },
+        {
+            "nom_tournage": "MARVIN",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-08-26",
+            "end_date": "2016-08-26"
+        },
+        {
+            "nom_tournage": "STELLA EST AMOUREUSE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2020-12-22",
+            "end_date": "2020-12-22"
+        },
+        {
+            "nom_tournage": "STELLA EST AMOUREUSE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2020-12-22",
+            "end_date": "2020-12-22"
+        },
+        {
+            "nom_tournage": "STELLA EST AMOUREUSE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2020-12-22",
+            "end_date": "2020-12-22"
+        },
+        {
+            "nom_tournage": "UNE FEMME D'EXCEPTION",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75019",
+            "start_date": "2016-10-05",
+            "end_date": "2016-10-05"
+        },
+        {
+            "nom_tournage": "MA PIRE ANGOISSE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2016-04-06",
+            "end_date": "2016-04-06"
+        },
+        {
+            "nom_tournage": "MARIE FRANCINE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2016-04-19",
+            "end_date": "2016-04-19"
+        },
+        {
+            "nom_tournage": "JUST DIVORCED",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2016-11-09",
+            "end_date": "2016-11-09"
+        },
+        {
+            "nom_tournage": "VIVE LA CRISE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2016-06-03",
+            "end_date": "2016-06-03"
+        },
+        {
+            "nom_tournage": "L'EMBARRAS DU CHOIX",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75002",
+            "start_date": "2016-08-05",
+            "end_date": "2016-08-05"
+        },
+        {
+            "nom_tournage": "LA NUIT A DEVORE LE MONDE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2016-12-19",
+            "end_date": "2016-12-21"
+        },
+        {
+            "nom_tournage": "LE BRIO",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2016-11-07",
+            "end_date": "2016-11-07"
+        },
+        {
+            "nom_tournage": "CHEFS - SAISON 2",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75008",
+            "start_date": "2016-04-18",
+            "end_date": "2016-04-27"
+        },
+        {
+            "nom_tournage": "LOLA PATER",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2016-04-19",
+            "end_date": "2016-04-19"
+        },
+        {
+            "nom_tournage": "LA DOULEUR",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2016-08-30",
+            "end_date": "2016-08-30"
+        },
+        {
+            "nom_tournage": "LES FEMMES DU SQUARE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2020-12-21",
+            "end_date": "2020-12-21"
+        },
+        {
+            "nom_tournage": "KO",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-09-14",
+            "end_date": "2016-09-15"
+        },
+        {
+            "nom_tournage": "PLONGER",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-05-04",
+            "end_date": "2016-05-04"
+        },
+        {
+            "nom_tournage": "IRIS/EX CHAOS",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2016-02-18",
+            "end_date": "2016-02-18"
+        },
+        {
+            "nom_tournage": "JUST DIVORCED",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2016-11-09",
+            "end_date": "2016-11-09"
+        },
+        {
+            "nom_tournage": "CHEFS - SAISON 2",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75008",
+            "start_date": "2016-03-22",
+            "end_date": "2016-03-22"
+        },
+        {
+            "nom_tournage": "CORPORATE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2016-03-07",
+            "end_date": "2016-03-07"
+        },
+        {
+            "nom_tournage": "LE BUREAU DES LEGENDES/SAISON 2 N°1 A 8",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2016-01-19",
+            "end_date": "2016-01-19"
+        },
+        {
+            "nom_tournage": "L'AMANT D'UN JOUR",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2016-07-29",
+            "end_date": "2016-07-29"
+        },
+        {
+            "nom_tournage": "CHERCHEZ LA FEMME",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-05-02",
+            "end_date": "2016-05-05"
+        },
+        {
+            "nom_tournage": "TELLE MERE TELLE FILLE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-07-11",
+            "end_date": "2016-07-11"
+        },
+        {
+            "nom_tournage": "THE COLLECTION",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2016-05-23",
+            "end_date": "2016-05-23"
+        },
+        {
+            "nom_tournage": "LES HOMMES DE L'OMBRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2016-04-12",
+            "end_date": "2016-04-12"
+        },
+        {
+            "nom_tournage": "LA FILLE DE BREST",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-01-19",
+            "end_date": "2016-01-19"
+        },
+        {
+            "nom_tournage": "MES TRESORS",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-02-15",
+            "end_date": "2016-02-15"
+        },
+        {
+            "nom_tournage": "LA SAGE FEMME",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-04-11",
+            "end_date": "2016-04-11"
+        },
+        {
+            "nom_tournage": "DIANE A LES EPAULES",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2016-08-30",
+            "end_date": "2016-09-01"
+        },
+        {
+            "nom_tournage": "STARS 80 LA SUITE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-09-08",
+            "end_date": "2016-09-08"
+        },
+        {
+            "nom_tournage": "JUSTE UN REGARD",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2016-11-25",
+            "end_date": "2016-11-25"
+        },
+        {
+            "nom_tournage": "DALIDA",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2016-02-22",
+            "end_date": "2016-02-23"
+        },
+        {
+            "nom_tournage": "DEMAIN ET TOUS LES AUTRES JOURS (2)",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-04-13",
+            "end_date": "2016-04-13"
+        },
+        {
+            "nom_tournage": "Dix pour cent - Saison 4",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75017",
+            "start_date": "2020-02-08",
+            "end_date": "2020-02-08"
+        },
+        {
+            "nom_tournage": "PETITE FLEUR",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75004",
+            "start_date": "2020-02-14",
+            "end_date": "2020-02-14"
+        },
+        {
+            "nom_tournage": "SECTION DE RECHERCHE 162-163 CROSS OVER",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2020-02-08",
+            "end_date": "2020-02-08"
+        },
+        {
+            "nom_tournage": "SECTION DE RECHERCHE 162-163 CROSS OVER",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2020-02-07",
+            "end_date": "2020-02-07"
+        },
+        {
+            "nom_tournage": "FAMILY BUSINESS SAISON 2",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75017",
+            "start_date": "2020-02-10",
+            "end_date": "2020-02-10"
+        },
+        {
+            "nom_tournage": "FAMILY BUSINESS SAISON 2",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75017",
+            "start_date": "2020-02-10",
+            "end_date": "2020-02-10"
+        },
+        {
+            "nom_tournage": "ADIEU MONSIEUR HAFFMANN",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2020-03-17",
+            "end_date": "2020-03-17"
+        },
+        {
+            "nom_tournage": "ADIEU MONSIEUR HAFFMANN",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2020-03-19",
+            "end_date": "2020-03-19"
+        },
+        {
+            "nom_tournage": "ENGRENAGES/SAISON 6/N° 1 A 6",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2016-07-25",
+            "end_date": "2016-07-29"
+        },
+        {
+            "nom_tournage": "BEFIKRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-05-03",
+            "end_date": "2016-05-03"
+        },
+        {
+            "nom_tournage": "DEMAIN ET TOUS LES AUTRES JOURS (2)",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2016-03-17",
+            "end_date": "2016-03-17"
+        },
+        {
+            "nom_tournage": "CHERCHEZ LA FEMME",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-05-09",
+            "end_date": "2016-05-09"
+        },
+        {
+            "nom_tournage": "LES EX",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-09-06",
+            "end_date": "2016-09-08"
+        },
+        {
+            "nom_tournage": "BELLE BELLE BELLE",
+            "annee_tournage": "2020",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75018",
+            "start_date": "2020-03-09",
+            "end_date": "2020-03-09"
+        },
+        {
+            "nom_tournage": "ARSENE LUPIN",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2020-03-11",
+            "end_date": "2020-03-12"
+        },
+        {
+            "nom_tournage": "LA MONNAIE DE LEUR PIECE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-11-18",
+            "end_date": "2016-11-18"
+        },
+        {
+            "nom_tournage": "KANTOR",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2016-03-16",
+            "end_date": "2016-03-16"
+        },
+        {
+            "nom_tournage": "LA MANTE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2016-10-11",
+            "end_date": "2016-10-11"
+        },
+        {
+            "nom_tournage": "ADIEU MONSIEUR HAFFMANN",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2020-06-11",
+            "end_date": "2020-06-11"
+        },
+        {
+            "nom_tournage": "Coma Idyllique",
+            "annee_tournage": "2020",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75011",
+            "start_date": "2020-06-22",
+            "end_date": "2020-06-24"
+        },
+        {
+            "nom_tournage": "Je Te Promets",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2020-06-30",
+            "end_date": "2020-06-30"
+        },
+        {
+            "nom_tournage": "Je Te Promets",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2020-07-02",
+            "end_date": "2020-07-02"
+        },
+        {
+            "nom_tournage": "On est fait pour s'entendre",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2020-06-24",
+            "end_date": "2020-06-25"
+        },
+        {
+            "nom_tournage": "Arsène Lupin",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75008",
+            "start_date": "2020-07-15",
+            "end_date": "2020-07-15"
+        },
+        {
+            "nom_tournage": "LES HOMMES DE L'OMBRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75013",
+            "start_date": "2016-04-13",
+            "end_date": "2016-04-13"
+        },
+        {
+            "nom_tournage": "LOUE MOI",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2016-11-23",
+            "end_date": "2016-11-23"
+        },
+        {
+            "nom_tournage": "STAY WITH ME",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75016",
+            "start_date": "2016-04-03",
+            "end_date": "2016-04-03"
+        },
+        {
+            "nom_tournage": "BITTER FLOWERS",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2016-10-04",
+            "end_date": "2016-10-04"
+        },
+        {
+            "nom_tournage": "GANGSTERDAM",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2016-08-11",
+            "end_date": "2016-08-12"
+        },
+        {
+            "nom_tournage": "NADIA",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75012",
+            "start_date": "2016-04-21",
+            "end_date": "2016-04-21"
+        },
+        {
+            "nom_tournage": "LEILA",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2016-12-09",
+            "end_date": "2016-12-09"
+        },
+        {
+            "nom_tournage": "EMBRASSE MOI",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-07-11",
+            "end_date": "2016-07-11"
+        },
+        {
+            "nom_tournage": "Je te veux, moi non plus",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2020-07-31",
+            "end_date": "2020-07-31"
+        },
+        {
+            "nom_tournage": "On sourit pour la photo",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2020-08-26",
+            "end_date": "2020-08-27"
+        },
+        {
+            "nom_tournage": "On sourit pour la photo",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2020-08-27",
+            "end_date": "2020-08-27"
+        },
+        {
+            "nom_tournage": "TOUT S'EST BIEN PASSE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2020-08-05",
+            "end_date": "2020-08-05"
+        },
+        {
+            "nom_tournage": "ASTRID ET RAPHAËLLE SAISON 2",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75002",
+            "start_date": "2020-08-11",
+            "end_date": "2020-08-11"
+        },
+        {
+            "nom_tournage": "BOUTCHOU",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-03-15",
+            "end_date": "2019-03-15"
+        },
+        {
+            "nom_tournage": "PRODUCTION 46",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-06-19",
+            "end_date": "2019-06-20"
+        },
+        {
+            "nom_tournage": "En attendant qui ? Mai",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75017",
+            "start_date": "2019-06-13",
+            "end_date": "2019-06-13"
+        },
+        {
+            "nom_tournage": "J'IRAI MOURIR DANS LES CARPATES",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2019-12-02",
+            "end_date": "2019-12-03"
+        },
+        {
+            "nom_tournage": "LES HOMMES DE L'OMBRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2016-03-31",
+            "end_date": "2016-03-31"
+        },
+        {
+            "nom_tournage": "MAGIC KIDS",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75012",
+            "start_date": "2016-04-29",
+            "end_date": "2016-04-29"
+        },
+        {
+            "nom_tournage": "SEULS",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75020",
+            "start_date": "2016-03-16",
+            "end_date": "2016-03-16"
+        },
+        {
+            "nom_tournage": "BEFIKRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75001",
+            "start_date": "2016-05-12",
+            "end_date": "2016-05-13"
+        },
+        {
+            "nom_tournage": "CA C'EST LA FAMILLE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2016-09-08",
+            "end_date": "2016-09-08"
+        },
+        {
+            "nom_tournage": "LOVE LOCKS",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75001",
+            "start_date": "2016-11-29",
+            "end_date": "2016-11-29"
+        },
+        {
+            "nom_tournage": "CHRONIQUES PARISIENNES",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2016-12-29",
+            "end_date": "2016-12-29"
+        },
+        {
+            "nom_tournage": "BLACKPILLS/VIRGIN",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75014",
+            "start_date": "2016-08-19",
+            "end_date": "2016-08-19"
+        },
+        {
+            "nom_tournage": "STAY WITH ME",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75016",
+            "start_date": "2016-04-02",
+            "end_date": "2016-04-02"
+        },
+        {
+            "nom_tournage": "L'échange",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2019-11-20",
+            "end_date": "2019-11-20"
+        },
+        {
+            "nom_tournage": "French Exit",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-12-07",
+            "end_date": "2019-12-07"
+        },
+        {
+            "nom_tournage": "Belle Fille",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2018-11-07",
+            "end_date": "2018-11-08"
+        },
+        {
+            "nom_tournage": "FIN DE MATINEE",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2018-11-07",
+            "end_date": "2018-11-08"
+        },
+        {
+            "nom_tournage": "HUGUETTE",
+            "annee_tournage": "2018",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75019",
+            "start_date": "2018-11-02",
+            "end_date": "2018-11-02"
+        },
+        {
+            "nom_tournage": "Osmosis",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2018-08-29",
+            "end_date": "2018-08-30"
+        },
+        {
+            "nom_tournage": "BALTHAZAR 7,8",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2019-04-09",
+            "end_date": "2019-04-09"
+        },
+        {
+            "nom_tournage": "UNE VIE VIOLENTE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75014",
+            "start_date": "2016-06-16",
+            "end_date": "2016-06-17"
+        },
+        {
+            "nom_tournage": "ALICE NEVERS LE JUGE EST UNE FEMME/86 ET 87",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2016-12-01",
+            "end_date": "2016-12-01"
+        },
+        {
+            "nom_tournage": "MARIE FRANCINE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-06-06",
+            "end_date": "2016-06-06"
+        },
+        {
+            "nom_tournage": "LES HOMMES DE L'OMBRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2016-04-11",
+            "end_date": "2016-04-11"
+        },
+        {
+            "nom_tournage": "FILLES D'AUJOURD'HUI",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75014",
+            "start_date": "2016-01-22",
+            "end_date": "2016-01-22"
+        },
+        {
+            "nom_tournage": "LA LICORNE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75018",
+            "start_date": "2016-11-02",
+            "end_date": "2016-11-02"
+        },
+        {
+            "nom_tournage": "Être En Mouvement",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2020-09-14",
+            "end_date": "2020-09-14"
+        },
+        {
+            "nom_tournage": "Entre les Vagues",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2020-09-17",
+            "end_date": "2020-09-18"
+        },
+        {
+            "nom_tournage": "SAM SAISON 5",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2020-09-21",
+            "end_date": "2020-09-22"
+        },
+        {
+            "nom_tournage": "CLEM",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2019-01-21",
+            "end_date": "2019-01-26"
+        },
+        {
+            "nom_tournage": "CADRES NOIRS",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75012",
+            "start_date": "2019-03-21",
+            "end_date": "2019-03-21"
+        },
+        {
+            "nom_tournage": "POLICE",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2019-03-27",
+            "end_date": "2019-03-27"
+        },
+        {
+            "nom_tournage": "Splendor in a glass",
+            "annee_tournage": "2019",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75018",
+            "start_date": "2019-04-02",
+            "end_date": "2019-04-02"
+        },
+        {
+            "nom_tournage": "ROMANCE",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2019-04-18",
+            "end_date": "2019-04-19"
+        },
+        {
+            "nom_tournage": "120 BATTEMENTS PAR MINUTE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2016-08-23",
+            "end_date": "2016-08-24"
+        },
+        {
+            "nom_tournage": "MUNCH",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75014",
+            "start_date": "2016-05-13",
+            "end_date": "2016-05-13"
+        },
+        {
+            "nom_tournage": "L'EMBARRAS DU CHOIX",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-08-09",
+            "end_date": "2016-08-09"
+        },
+        {
+            "nom_tournage": "FLORA63",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2016-05-10",
+            "end_date": "2016-05-10"
+        },
+        {
+            "nom_tournage": "DEMAIN ET TOUS LES AUTRES JOURS (2)",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-05-16",
+            "end_date": "2016-05-20"
+        },
+        {
+            "nom_tournage": "MONSIEUR ET MADAME ADELMAN",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75015",
+            "start_date": "2016-02-03",
+            "end_date": "2016-02-03"
+        },
+        {
+            "nom_tournage": "SI J'ETAIS UN HOMME",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2016-04-09",
+            "end_date": "2016-04-10"
+        },
+        {
+            "nom_tournage": "VIRTUE",
+            "annee_tournage": "2020",
+            "type_tournage": "Série Web",
+            "ardt_lieu": "75008",
+            "start_date": "2020-10-05",
+            "end_date": "2020-10-05"
+        },
+        {
+            "nom_tournage": "ROSE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2020-10-13",
+            "end_date": "2020-10-13"
+        },
+        {
+            "nom_tournage": "French Exit",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75012",
+            "start_date": "2019-12-05",
+            "end_date": "2019-12-05"
+        },
+        {
+            "nom_tournage": "OSS 117 : Alerte rouge en Afrique noire",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2019-12-09",
+            "end_date": "2019-12-09"
+        },
+        {
+            "nom_tournage": "SI tu vas bien",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75010",
+            "start_date": "2019-12-04",
+            "end_date": "2019-12-04"
+        },
+        {
+            "nom_tournage": "Un médecin de nuit - Partie 1",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2019-12-11",
+            "end_date": "2019-12-11"
+        },
+        {
+            "nom_tournage": "PARIS OPERA SAISON 2 (LENA REVE D'ETOILES) 2",
+            "annee_tournage": "2018",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75009",
+            "start_date": "2018-09-10",
+            "end_date": "2018-09-10"
+        },
+        {
+            "nom_tournage": "LES EX",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2016-09-23",
+            "end_date": "2016-09-23"
+        },
+        {
+            "nom_tournage": "NADIA",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75012",
+            "start_date": "2016-04-11",
+            "end_date": "2016-04-11"
+        },
+        {
+            "nom_tournage": "AURORE TABORT",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75011",
+            "start_date": "2016-03-25",
+            "end_date": "2016-03-25"
+        },
+        {
+            "nom_tournage": "THE ESCAPE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75005",
+            "start_date": "2016-10-20",
+            "end_date": "2016-10-20"
+        },
+        {
+            "nom_tournage": "LA DOULEUR",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-08-24",
+            "end_date": "2016-08-24"
+        },
+        {
+            "nom_tournage": "Des vacances à tout prix",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75014",
+            "start_date": "2020-10-12",
+            "end_date": "2020-10-13"
+        },
+        {
+            "nom_tournage": "Luther",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75015",
+            "start_date": "2020-10-14",
+            "end_date": "2020-10-15"
+        },
+        {
+            "nom_tournage": "UNE MERE PARFAITE",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75007",
+            "start_date": "2020-10-15",
+            "end_date": "2020-10-16"
+        },
+        {
+            "nom_tournage": "ARSENE LUPIN",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75002",
+            "start_date": "2020-10-20",
+            "end_date": "2020-10-20"
+        },
+        {
+            "nom_tournage": "Je voudrais que quelqu'un m'attende quelque part",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2018-09-14",
+            "end_date": "2018-09-14"
+        },
+        {
+            "nom_tournage": "LUZ",
+            "annee_tournage": "2018",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2018-09-12",
+            "end_date": "2018-09-13"
+        },
+        {
+            "nom_tournage": "J'ACCUSE",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2019-02-13",
+            "end_date": "2019-02-15"
+        },
+        {
+            "nom_tournage": "Fleabag",
+            "annee_tournage": "2019",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75011",
+            "start_date": "2019-01-25",
+            "end_date": "2019-01-25"
+        },
+        {
+            "nom_tournage": "NADIA",
+            "annee_tournage": "2016",
+            "type_tournage": "Téléfilm",
+            "ardt_lieu": "75012",
+            "start_date": "2016-04-12",
+            "end_date": "2016-04-12"
+        },
+        {
+            "nom_tournage": "BEFIKRE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75003",
+            "start_date": "2016-02-26",
+            "end_date": "2016-02-26"
+        },
+        {
+            "nom_tournage": "MARIE FRANCINE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75016",
+            "start_date": "2016-04-11",
+            "end_date": "2016-04-11"
+        },
+        {
+            "nom_tournage": "LES EX",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75008",
+            "start_date": "2016-08-22",
+            "end_date": "2016-08-22"
+        },
+        {
+            "nom_tournage": "ENGRENAGES/SAISON 6/N° 1 A 6",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2016-06-15",
+            "end_date": "2016-06-15"
+        },
+        {
+            "nom_tournage": "EMMA",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75019",
+            "start_date": "2016-02-26",
+            "end_date": "2016-02-26"
+        },
+        {
+            "nom_tournage": "THE AFFAIR",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75005",
+            "start_date": "2016-12-01",
+            "end_date": "2016-12-01"
+        },
+        {
+            "nom_tournage": "Arsène Lupin",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2020-10-22",
+            "end_date": "2020-10-23"
+        },
+        {
+            "nom_tournage": "Arsène Lupin",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2020-10-22",
+            "end_date": "2020-10-23"
+        },
+        {
+            "nom_tournage": "LES FEMMES DU SQUARE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2020-10-26",
+            "end_date": "2020-10-27"
+        },
+        {
+            "nom_tournage": "NUIT BLANCHE ET GROS CALINS",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2020-11-03",
+            "end_date": "2020-11-04"
+        },
+        {
+            "nom_tournage": "UN VOYAGE EN HIVER",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2019-04-03",
+            "end_date": "2019-04-03"
+        },
+        {
+            "nom_tournage": "Trois Fois Rien",
+            "annee_tournage": "2019",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75013",
+            "start_date": "2019-12-02",
+            "end_date": "2019-12-02"
+        },
+        {
+            "nom_tournage": "PARIS, LA BLANCHE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75010",
+            "start_date": "2016-02-13",
+            "end_date": "2016-02-13"
+        },
+        {
+            "nom_tournage": "MARYLINE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75006",
+            "start_date": "2016-08-23",
+            "end_date": "2016-08-23"
+        },
+        {
+            "nom_tournage": "THE PACKAGE",
+            "annee_tournage": "2016",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75004",
+            "start_date": "2016-10-21",
+            "end_date": "2016-10-21"
+        },
+        {
+            "nom_tournage": "LA DOULEUR",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75003",
+            "start_date": "2016-08-25",
+            "end_date": "2016-08-26"
+        },
+        {
+            "nom_tournage": "LE BRIO",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75007",
+            "start_date": "2016-11-09",
+            "end_date": "2016-11-09"
+        },
+        {
+            "nom_tournage": "DJANGO MELODIES",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75018",
+            "start_date": "2016-04-22",
+            "end_date": "2016-04-22"
+        },
+        {
+            "nom_tournage": "LA MELODIE",
+            "annee_tournage": "2016",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75019",
+            "start_date": "2016-07-25",
+            "end_date": "2016-07-29"
+        },
+        {
+            "nom_tournage": "Arsène Lupin",
+            "annee_tournage": "2020",
+            "type_tournage": "Série TV",
+            "ardt_lieu": "75001",
+            "start_date": "2020-10-26",
+            "end_date": "2020-11-03"
+        },
+        {
+            "nom_tournage": "LES FEMMES DU SQUARE",
+            "annee_tournage": "2020",
+            "type_tournage": "Long métrage",
+            "ardt_lieu": "75009",
+            "start_date": "2020-11-09",
+            "end_date": "2020-11-09"
+        }
+    ]
+}
